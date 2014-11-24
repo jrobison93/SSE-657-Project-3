@@ -28,3 +28,8 @@ Things we need:
     - Unjudged list
     - Judged list
 
+PAPER:
+- Feature- driven development
+- Use-case development
+  - As a user
+- Have a client and mock meetings
