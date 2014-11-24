@@ -193,6 +193,7 @@
     </Compile>
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Models\CompetitionModel.cs" />
+    <Compile Include="Models\LanguageModel.cs" />
     <Compile Include="Models\ProblemModel.cs" />
     <Compile Include="Models\TeamModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -84,5 +84,24 @@ namespace ProgrammingTeamJudgeTests
                 Console.WriteLine("\tExpected: " + teams.Count + " teams: Actual: " + competition.teams.Count + " teams");
             }
         }
+
+        //
+        // This test ensures that Languages can be created correctly.
+
+        public void testLanguageCreation(string name, string extension)
+        {
+            LanguageModel language = new LanguageModel(name, extension);
+
+            if(name == language.name && extension == language.extension)
+            {
+                Console.WriteLine("Test Passed");
+            }
+            else
+            {
+                Console.WriteLine("Test Failed: ");
+                Console.WriteLine("\tExpected: " + name + ": Actual: " + language.name);
+                Console.WriteLine("\tExpected: " + extension + ": Actual: " + language.extension);
+            }
+        }
     }
 }
