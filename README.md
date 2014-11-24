@@ -33,3 +33,6 @@ PAPER:
 - Use-case development
   - As a user
 - Have a client and mock meetings
+
+Additional Resources:
+- Diff Tool API: https://code.google.com/p/google-diff-match-patch/
