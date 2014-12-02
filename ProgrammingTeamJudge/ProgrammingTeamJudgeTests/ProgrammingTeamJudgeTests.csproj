@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="AdminTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ProgrammingTeamJudge\ProgrammingTeamJudge.csproj">

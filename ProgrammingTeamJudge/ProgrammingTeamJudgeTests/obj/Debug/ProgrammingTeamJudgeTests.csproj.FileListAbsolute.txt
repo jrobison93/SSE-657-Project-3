@@ -1,5 +1,4 @@
 C:\Users\Alexander\Documents\GitHub\SSE-657-Project-3\ProgrammingTeamJudge\ProgrammingTeamJudgeTests\obj\Debug\ProgrammingTeamJudgeTests.csprojResolveAssemblyReference.cache
-C:\Users\Alexander\Documents\GitHub\SSE-657-Project-3\ProgrammingTeamJudge\ProgrammingTeamJudgeTests\bin\Debug\ProgrammingTeamJudgeTests.dll
 C:\Users\Alexander\Documents\GitHub\SSE-657-Project-3\ProgrammingTeamJudge\ProgrammingTeamJudgeTests\bin\Debug\ProgrammingTeamJudgeTests.pdb
 C:\Users\Alexander\Documents\GitHub\SSE-657-Project-3\ProgrammingTeamJudge\ProgrammingTeamJudgeTests\bin\Debug\ProgrammingTeamJudge.dll
 C:\Users\Alexander\Documents\GitHub\SSE-657-Project-3\ProgrammingTeamJudge\ProgrammingTeamJudgeTests\bin\Debug\System.Web.Mvc.dll
@@ -23,5 +22,6 @@ C:\Users\Alexander\Documents\GitHub\SSE-657-Project-3\ProgrammingTeamJudge\Progr
 C:\Users\Alexander\Documents\GitHub\SSE-657-Project-3\ProgrammingTeamJudge\ProgrammingTeamJudgeTests\bin\Debug\DotNetOpenAuth.OAuth.xml
 C:\Users\Alexander\Documents\GitHub\SSE-657-Project-3\ProgrammingTeamJudge\ProgrammingTeamJudgeTests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
 C:\Users\Alexander\Documents\GitHub\SSE-657-Project-3\ProgrammingTeamJudge\ProgrammingTeamJudgeTests\bin\Debug\DotNetOpenAuth.OpenId.xml
-C:\Users\Alexander\Documents\GitHub\SSE-657-Project-3\ProgrammingTeamJudge\ProgrammingTeamJudgeTests\obj\Debug\ProgrammingTeamJudgeTests.dll
 C:\Users\Alexander\Documents\GitHub\SSE-657-Project-3\ProgrammingTeamJudge\ProgrammingTeamJudgeTests\obj\Debug\ProgrammingTeamJudgeTests.pdb
+C:\Users\Alexander\Documents\GitHub\SSE-657-Project-3\ProgrammingTeamJudge\ProgrammingTeamJudgeTests\bin\Debug\ProgrammingTeamJudgeTests.exe
+C:\Users\Alexander\Documents\GitHub\SSE-657-Project-3\ProgrammingTeamJudge\ProgrammingTeamJudgeTests\obj\Debug\ProgrammingTeamJudgeTests.exe
