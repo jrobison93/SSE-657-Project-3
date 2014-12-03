@@ -11,7 +11,7 @@ namespace ProgrammingTeamJudgeTests
         //
         // This test ensures that a Competition can be created from the Admin page.
 
-        public void testCreateCompetition(DateTime startDate, DateTime endDate, string name)
+        public static void testCreateCompetition(DateTime startDate, DateTime endDate, string name)
         {
             CompetitionModel competition = new CompetitionModel(startDate, endDate, name);
 
@@ -22,9 +22,9 @@ namespace ProgrammingTeamJudgeTests
             else
             {
                 Console.WriteLine("Test Failed:");
-                Console.WriteLine("\tExpected: " + startDate + ": Actual: " + competition.startDate);
-                Console.WriteLine("\tExpected: " + endDate + ": Actual: " + competition.endDate);
-                Console.WriteLine("\tExpected: " + name + ": Actual: " + competition.name);
+                Console.WriteLine("\t\tExpected: " + startDate + ": Actual: " + competition.startDate);
+                Console.WriteLine("\t\tExpected: " + endDate + ": Actual: " + competition.endDate);
+                Console.WriteLine("\t\tExpected: " + name + ": Actual: " + competition.name);
             }
 
         }
@@ -32,7 +32,7 @@ namespace ProgrammingTeamJudgeTests
         //
         // This test ensures that a Team can be created from the Admin page.
 
-        public void testCreateTeams(string name)
+        public static void testCreateTeams(string name)
         {
             TeamModel team = new TeamModel(name);
 
@@ -43,14 +43,14 @@ namespace ProgrammingTeamJudgeTests
             else
             {
                 Console.WriteLine("Test Failed:");
-                Console.WriteLine("\tExpected: " + name + ": Actual: " + team.name);
+                Console.WriteLine("\t\tExpected: " + name + ": Actual: " + team.name);
             }
         }
 
         //
         // This test ensures that a Problem can be created from the Admin page.
 
-        public void testCreateProblem(string name)
+        public static void testCreateProblem(string name)
         {
             ProblemModel problem = new ProblemModel(name);
             
@@ -61,14 +61,14 @@ namespace ProgrammingTeamJudgeTests
             else
             {
                 Console.WriteLine("Test Failed:");
-                Console.WriteLine("\tExpected: " + name + ": Actual: " + problem.name);
+                Console.WriteLine("\t\tExpected: " + name + ": Actual: " + problem.name);
             }
         }
 
         // 
         // This test ensures that a Team and a Problem can be added to an existing Competition.
 
-        public void testAddTeamAndProblem(CompetitionModel competition, List<TeamModel> teams, List<ProblemModel> problems)
+        public static void testAddTeamAndProblem(CompetitionModel competition, List<TeamModel> teams, List<ProblemModel> problems)
         {
             competition.teams = teams;
             competition.problems = problems;
@@ -80,14 +80,14 @@ namespace ProgrammingTeamJudgeTests
             else
             {
                 Console.WriteLine("Test Failed:");
-                Console.WriteLine("\tExpected: " + teams.Count + " teams: Actual: " + competition.teams.Count + " teams");
+                Console.WriteLine("\t\tExpected: " + teams.Count + " teams: Actual: " + competition.teams.Count + " teams");
             }
         }
 
         //
         // This test ensures that Languages can be created correctly.
 
-        public void testLanguageCreation(string name, string extension)
+        public static void testLanguageCreation(string name, string extension)
         {
             LanguageModel language = new LanguageModel(name, extension);
 
@@ -98,8 +98,8 @@ namespace ProgrammingTeamJudgeTests
             else
             {
                 Console.WriteLine("Test Failed: ");
-                Console.WriteLine("\tExpected: " + name + ": Actual: " + language.name);
-                Console.WriteLine("\tExpected: " + extension + ": Actual: " + language.extension);
+                Console.WriteLine("\t\tExpected: " + name + ": Actual: " + language.name);
+                Console.WriteLine("\t\tExpected: " + extension + ": Actual: " + language.extension);
             }
         }
     }
