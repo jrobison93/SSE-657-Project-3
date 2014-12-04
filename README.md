@@ -62,7 +62,7 @@ TODO:
         - List out features/ requirements and provide in depth descriptions of each.
     - [ ] Domain Analysis <Optional>
         - Making the Features and requrements easier to understand for the customer.
-    - [ ] Use Cases and Use Case Diagrams (John)
+    - [x] Use Cases and Use Case Diagrams (John)
         - Provide use cases for submitting and judging a problem.
         - Provide a use case diagram for a user, judge, and admin.
     - [ ] Brief discussion on Used Technology used (MVC Design Pattern) (Grey)
