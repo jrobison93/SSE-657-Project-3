@@ -52,11 +52,11 @@ TODO:
  - Paper
     - [ ] Intro (Tanya)
         - Briefly discuss the topics covered in the book.
-    - [ ] Problem Statement (Tanya)
+    - [x] Problem Statement (Tanya)
         - Describe what our application is doing and why we're doing it.
-    - [ ] Mock Discussion with Client (Tanya)
+    - [x] Mock Discussion with Client (Tanya)
         - Gathering features and requirements.
-    - [ ] Commonality V.S. Variability (Grey)
+    - [x] Commonality V.S. Variability (Grey)
         - What is the app like/ not like.
     - [x] Features/ Requirements (John)
         - List out features/ requirements and provide in depth descriptions of each.
