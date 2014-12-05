@@ -50,7 +50,7 @@ Additional Resources:
 TODO:
 
  - Paper
-    - [ ] Intro (Tanya)
+    - [x] Intro (Tanya)
         - Briefly discuss the topics covered in the book.
     - [x] Problem Statement (Tanya)
         - Describe what our application is doing and why we're doing it.
