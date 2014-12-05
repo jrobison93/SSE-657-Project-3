@@ -67,10 +67,10 @@ TODO:
         - Provide a use case diagram for a user, judge, and admin.
     - [x] Brief discussion on Used Technology used (MVC Design Pattern) (Grey)
         - Talk about MVC briefly and why it is appropriate for this application. 
-    - [ ] Archetectural Analysis (John)
+    - [x] Archetectural Analysis (John)
         - 3 Q's of architecture
         - Risk Reduction
-    - [ ] Additional Discussion with the Customer (Tanya)
+    - [x] Additional Discussion with the Customer (Tanya)
     - [ ] Test Cases (Grey)
     - [ ] Feature Driven Development
         - Admin Portal (John)
