@@ -65,7 +65,7 @@ TODO:
     - [x] Use Cases and Use Case Diagrams (John)
         - Provide use cases for submitting and judging a problem.
         - Provide a use case diagram for a user, judge, and admin.
-    - [ ] Brief discussion on Used Technology used (MVC Design Pattern) (Grey)
+    - [x] Brief discussion on Used Technology used (MVC Design Pattern) (Grey)
         - Talk about MVC briefly and why it is appropriate for this application. 
     - [ ] Archetectural Analysis (John)
         - 3 Q's of architecture
