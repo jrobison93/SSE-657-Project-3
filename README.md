@@ -58,7 +58,7 @@ TODO:
         - Gathering features and requirements.
     - [ ] Commonality V.S. Variability (Grey)
         - What is the app like/ not like.
-    - [ ] Features/ Requirements (John)
+    - [x] Features/ Requirements (John)
         - List out features/ requirements and provide in depth descriptions of each.
     - [ ] Domain Analysis <Optional>
         - Making the Features and requrements easier to understand for the customer.
