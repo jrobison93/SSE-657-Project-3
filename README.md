@@ -60,8 +60,6 @@ TODO:
         - What is the app like/ not like.
     - [x] Features/ Requirements (John)
         - List out features/ requirements and provide in depth descriptions of each.
-    - [ ] Domain Analysis <Optional>
-        - Making the Features and requrements easier to understand for the customer.
     - [x] Use Cases and Use Case Diagrams (John)
         - Provide use cases for submitting and judging a problem.
         - Provide a use case diagram for a user, judge, and admin.
@@ -71,11 +69,11 @@ TODO:
         - 3 Q's of architecture
         - Risk Reduction
     - [x] Additional Discussion with the Customer (Tanya)
-    - [ ] Test Cases (Grey)
-    - [ ] Feature Driven Development
+    - [x] Test Cases (Grey)
+    - [x] Feature Driven Development
         - Admin Portal (John)
-    - [ ] Use Case Driven Development
+    - [x] Use Case Driven Development
         - Problem Submission (Tanya)
         - Problem Judging (Grey)
     - [ ] Test Results and Quality Results (Tanya)
-    - [ ] Conclusion (Grey)
+    - [x] Conclusion (Grey)
